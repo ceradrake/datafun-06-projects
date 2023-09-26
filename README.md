@@ -1,5 +1,8 @@
 # datafun-06-projects
 
+## Author: Cera Drake
+## Date: 09/26/23
+
 ## Step 1: Open The Project Folder
 
 Open VS Code and clone your `datafun-06-projects` repository to your machine.
